@@ -1,16 +1,20 @@
-### Hi there 👋
+## ¡Bienvenidos a mi perfil! 
+> Me llamo Ignacio Basilio y estudio **desarrollo web** e **Ingeniería Informática**.
 
-<!--
-**NachoBasilio/NachoBasilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Aprendi sobre:
 
-Here are some ideas to get you started:
+* HTML
+* CSS
+* JavaScript
+* algo de C++, python y C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> También me interesa:
+
+* Photoshop
+* UI/UX design
+* Actualidad tecnológica
+* Pokemon <3
+
+> Todos los días trabajo para ser mejor en lo que me gusta. Como próximo desafío quiero comenzar a crear contenido. 
+
+>  Todo es posible, lo se <3.
