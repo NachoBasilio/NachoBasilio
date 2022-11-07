@@ -1,5 +1,9 @@
 ## ¡Bienvenidos a mi perfil! 
-> Me llamo Ignacio Basilio y estudio **desarrollo web** e **Ingeniería Informática**.
+> Me llamo Ignacio Basilio.
+
+> Soy *profesor*✍ y *tutor*✍ de *JS*.
+
+> Mi objetivo es conseguir mi primer trabajo como *desarrollador*.
 
 > Aprendi sobre:
 
