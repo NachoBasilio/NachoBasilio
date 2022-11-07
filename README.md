@@ -1,24 +1,23 @@
 ## ¡Bienvenidos a mi perfil! 
-> Me llamo Ignacio Basilio.
+### Me llamo Ignacio Basilio 🖖
 
-> Soy *profesor*✍ y *tutor*✍ de *JS*.
+> Soy *profesor* y *tutor* de *JS* ✍
 
-> Mi objetivo es conseguir mi primer trabajo como *desarrollador*.
+> Mi objetivo es conseguir mi primer trabajo como *desarrollador* 🖥
 
-> Aprendi sobre:
+> Aprendí sobre:
 
-* HTML
-* CSS
-* JavaScript
-* algo de C++, python y C#
+* HTML ✔
+* CSS ✔
+* JavaScript ✔
+* algo de C++, python y C# ✔
 
 > También me interesa:
 
-* Photoshop
-* UI/UX design
-* Actualidad tecnológica
-* Pokemon <3
+* Photoshop 📸 
+* UI/UX design 🖋
+* Actualidad tecnológica 🗞
+* Pokemon 💖
 
 > Todos los días trabajo para ser mejor en lo que me gusta. Como próximo desafío quiero comenzar a crear contenido. 
-
->  Todo es posible, lo se <3.
+> Un paso a la vez, se conquista el mundo. 
