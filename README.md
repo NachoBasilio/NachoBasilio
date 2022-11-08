@@ -27,10 +27,5 @@
 > 
 > Un paso a la vez, se conquista el mundo. 
 
-  <a href="https://www.linkedin.com/in/ignacio-nicolas-basilio-buracco/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Perfil Ignacio Basilio" height="30" width="30">
-  </a>
-  <a href="https://twitter.com/ignadev">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMlmlrcLTDttoD8VdPuCkIslXVs0tbamh3JNDu0oScyQ&s" alt="Perfil Ignacio Basilio" height="30" width="30">
-  </a>
-  
+  [![Twitter](https://img.shields.io/twitter/follow/ignadev?style=social)](https://twitter.com/ignadev)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-nicolas-basilio-buracco/)
