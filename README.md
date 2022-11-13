@@ -1,11 +1,11 @@
-## ¡Bienvenidos a mi perfil! 
+# ¡Bienvenidos a mi perfil! 
 
-### Mi nombre es Ignacio Basilio 🖖
+## Mi nombre es Ignacio Basilio 🖖
 
 
   
   
-Soy *profesor* y *tutor* de *JS* ✍
+### Soy *profesor* y *tutor* de *JS* ✍
 
 Mi objetivo es conseguir mi primer trabajo como *desarrollador* 🖥
 
