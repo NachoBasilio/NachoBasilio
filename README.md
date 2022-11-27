@@ -2,7 +2,7 @@
 
 ## Mi nombre es Ignacio Basilio 🖖
 
-### Soy *profesor* y *tutor* de *JS* ✍
+### Soy desarrollador web, *profesor* y *tutor* de *JS* ✍
 
 Mi objetivo actual es conseguir mi primer trabajo como *desarrollador* 🖥
 
