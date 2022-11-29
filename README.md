@@ -21,7 +21,7 @@ También me interesa:
 * Actualidad tecnológica 🗞
 * Pokemon 💖
 
-> Todos los días trabajo para ser mejor en lo que me gusta. Como próximo desafío quiero comenzar a crear contenido. 
+> Todos los días trabajo para ser mejor en lo que me gusta. Como próximo desafío quiero comenzar a crear contenido para darme a conocer. 
 > 
 > Un paso a la vez. 
 
