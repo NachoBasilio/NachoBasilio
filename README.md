@@ -2,11 +2,7 @@
 
 ## Mi nombre es Ignacio Basilio 🖖
 
-### Soy desarrollador web, *profesor* y *tutor* de *JS* ✍
-
-Mi objetivo actual es conseguir mi primer trabajo como *desarrollador* 🖥
-
-Se sobre:
+Un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación.
 
 * <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Perfil Ignacio Basilio" height="30" width="30"> 
 * <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="Perfil Ignacio Basilio" height="30" width="30"> 
@@ -14,16 +10,19 @@ Se sobre:
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="Perfil Ignacio Basilio" height="30" width="30">
 * algo de <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Perfil Ignacio Basilio" height="30" width="30">, <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Perfil Ignacio Basilio" height="30" width="30"> y <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="Perfil Ignacio Basilio" height="30" width="30"> 
 
+Además de mi trabajo como desarrollador web, también me desempeño como tutor de programación, ayudando a otros a adentrarse en el mundo del desarrollo y a alcanzar sus metas profesionales.
+
+Me encanta aprender cosas nuevas y estoy siempre buscando nuevos desafíos y oportunidades de crecimiento en mi carrera. Si estás interesado en trabajar conmigo, no dudes en ponerte en contacto conmigo. ¡Estoy ansioso por conectar y colaborar!
+Se sobre:
+
+
+
 También me interesa:
 
 * Photoshop 📸 
 * UI/UX design 🖋
 * Actualidad tecnológica 🗞
 * Pokemon 💖
-
-> Todos los días trabajo para ser mejor en lo que me gusta. Como próximo desafío quiero comenzar a crear contenido para darme a conocer. 
-> 
-> Un paso a la vez. 
 
 🇦🇷🇦🇷🇦🇷 Vamos Argentina 🇦🇷🇦🇷🇦🇷
 
