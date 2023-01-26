@@ -1,6 +1,6 @@
-# ¡Bienvenidos a mi repositorio! 
+<h1 align="center">¡Bienvenidos a mi prefil! </h1>
 
-## Mi nombre es Ignacio Basilio 🖖
+<h2 align="center"> Mi nombre es Ignacio Basilio 🖖 </h2>
 
 Un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación.
 
