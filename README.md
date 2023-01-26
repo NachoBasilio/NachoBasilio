@@ -1,33 +1,39 @@
-<h1 align="center">¡Bienvenidos a mi prefil! </h1>
+<h1 align="center">¡Bienvenidos a mi prefil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 
 <h2 align="center"> Mi nombre es Ignacio Basilio 🖖 </h2>
 
-Un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación.
+<br/>
 
-* <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Perfil Ignacio Basilio" height="30" width="30"> 
-* <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="Perfil Ignacio Basilio" height="30" width="30"> 
-* <img src="https://www.kindpng.com/picc/m/67-678384_transparent-javascript-icon-png-png-download.png" alt="Perfil Ignacio Basilio" height="30" width="30">
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="Perfil Ignacio Basilio" height="30" width="30">
-* algo de <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Perfil Ignacio Basilio" height="30" width="30">, <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Perfil Ignacio Basilio" height="30" width="30"> y <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="Perfil Ignacio Basilio" height="30" width="30"> 
+<h3>Un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación.</h3>
 
-Además de mi trabajo como desarrollador web, también me desempeño como tutor de programación, ayudando a otros a adentrarse en el mundo del desarrollo y a alcanzar sus metas profesionales.
+<br/>
 
-Me encanta aprender cosas nuevas y estoy siempre buscando nuevos desafíos y oportunidades de crecimiento en mi carrera. Si estás interesado en trabajar conmigo, no dudes en ponerte en contacto conmigo. ¡Estoy ansioso por conectar y colaborar!
-Se sobre:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+<br/>
 
+Además de mi labor como desarrollador web, también me dedico a la enseñanza de programación, brindando asesoramiento a otros para que puedan introducirse en el mundo del desarrollo y lograr sus objetivos profesionales.
+
+[![Kazel](https://img.shields.io/badge/Kazel-ffffff?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAAAXNSR0IArs4c6QAAAWdJREFUOE+FkztLA1EQhb/ZGCzsLARJYZCAlY/Cyv9gJaQSJUgKEVP5KFRYUBDFwiCkU9HGIthI/oUQYm1hOgUDQYNgXjtyk2xMNlfc5jJn5px7ZuauAOjWSBqPFGoioCGbDxeVFyDXQVqHtIPSN8TiyEcX05PhIioTLQHPm77fq6aAZIfga5hsZAl5HRDV63ATpYrUR+8SWhCYCpBxYDKOGFd9n6gi5Jx8drG5UIUyMGyxrcuIEyS3WjACl6JzDuQtRB+qJZA+YT8hGXQmBE9dIGixEyeRYFftwWbQgsKs1V4PKLC2jlwNzOAcrQHhvxz0rI8QjG8gb32tnqH+9g1eESgrRARTH5g4eJ8QdhGve+FxW6A0BNFt5MtPnKIrHtxYnL3vImNd/BAtHiBR2wyOUPOg0pZcdh+J97Zn47cwF30GYsEVK6y6yK11Nb3FLurUofH7K7SzhqgQ/VfAFO+g8wKPFpv6AwvhZRwcRIM3AAAAAElFTkSuQmCC)](https://kazel.academy/cursos/javascript)
+
+Me apasiona adquirir conocimientos nuevos y constantemente busco desafíos y oportunidades para avanzar en mi carrera. Si estás interesado en colaborar conmigo, no dudes en comunicarte. Estoy ansioso por establecer conexiones y trabajar juntos.
 
 También me interesa:
-
-* Photoshop 📸 
 * UI/UX design 🖋
 * Actualidad tecnológica 🗞
 * Pokemon 💖
 
-🇦🇷🇦🇷🇦🇷 Vamos Argentina 🇦🇷🇦🇷🇦🇷
-
-  [![Twitter](https://img.shields.io/twitter/follow/ignadev?style=social)](https://twitter.com/ignadev)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-nicolas-basilio-buracco/)
-  [![Kazel](https://img.shields.io/badge/Kazel-ffffff?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAAAXNSR0IArs4c6QAAAWdJREFUOE+FkztLA1EQhb/ZGCzsLARJYZCAlY/Cyv9gJaQSJUgKEVP5KFRYUBDFwiCkU9HGIthI/oUQYm1hOgUDQYNgXjtyk2xMNlfc5jJn5px7ZuauAOjWSBqPFGoioCGbDxeVFyDXQVqHtIPSN8TiyEcX05PhIioTLQHPm77fq6aAZIfga5hsZAl5HRDV63ATpYrUR+8SWhCYCpBxYDKOGFd9n6gi5Jx8drG5UIUyMGyxrcuIEyS3WjACl6JzDuQtRB+qJZA+YT8hGXQmBE9dIGixEyeRYFftwWbQgsKs1V4PKLC2jlwNzOAcrQHhvxz0rI8QjG8gb32tnqH+9g1eESgrRARTH5g4eJ8QdhGve+FxW6A0BNFt5MtPnKIrHtxYnL3vImNd/BAtHiBR2wyOUPOg0pZcdh+J97Zn47cwF30GYsEVK6y6yK11Nb3FLurUofH7K7SzhqgQ/VfAFO+g8wKPFpv6AwvhZRwcRIM3AAAAAElFTkSuQmCC)](https://kazel.academy/cursos/javascript)
-
-¡La IA estan cada vez mas geniales!
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ignadev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-nicolas-basilio-buracco/)
+  
+ 
+<h6 align="right">
+  <img src="https://komarev.com/ghpvc/?username=NachoBasilio&style=flat-square&color=blue" alt=""/>
+</h6>
