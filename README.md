@@ -1,6 +1,4 @@
-<h1 align="center">¡Bienvenidos a mi prefil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
-
-<h2 align="center"> @ignadev 🖖 </h2>
+<img src="https://media.licdn.com/dms/image/D4D16AQH25-XOqtNqdw/profile-displaybackgroundimage-shrink_350_1400/0/1674605075018?e=1682553600&v=beta&t=TNnw0RWEzWxbOiMtQRaWr1W8Z4XI15oyyJBzzCIGgzc"/>
 
 <br/>
 
