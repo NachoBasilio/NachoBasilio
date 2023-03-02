@@ -55,13 +55,14 @@ Me apasiona adquirir conocimientos nuevos y constantemente busco desafíos y opo
 
 <div align="center">
   
-<img src="https://i.postimg.cc/FR3GqCFp/Captura-desde-2023-02-28-17-34-50.png"/>
+| <img src="https://i.postimg.cc/FR3GqCFp/Captura-desde-2023-02-28-17-34-50.png"/>  | <img src="https://i.postimg.cc/zf90xYN3/Captura-desde-2023-02-28-17-36-15.png"/>  | 
+| -- | -- |
   
-<img src="https://i.postimg.cc/zf90xYN3/Captura-desde-2023-02-28-17-36-15.png"/>
+ </div>
+  
 
  
- </div>
- 
+  
 <h6 align="right">
   <img src="https://komarev.com/ghpvc/?username=NachoBasilio&style=flat-square&color=blue" alt=""/>
 </h6>
