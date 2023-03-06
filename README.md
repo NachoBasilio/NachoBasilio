@@ -27,7 +27,7 @@
   </div>
 <br/>
 
-<h3 align="center">¡Conecta conmigo!:</h3>
+<h3 align="center">¡Conecta conmigo!</h3>
 
 <div align="center">
 
