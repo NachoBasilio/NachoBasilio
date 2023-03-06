@@ -55,7 +55,7 @@ Me apasiona adquirir conocimientos nuevos y constantemente busco desafíos y opo
 
 <div align="center">
   
-| <img src="https://i.ibb.co/1LGwPV1/Captura-desde-2023-03-01-23-47-24.png"/>  | <img src="https://i.postimg.cc/zf90xYN3/Captura-desde-2023-02-28-17-36-15.png"/>  | 
+| <img src="https://i.ibb.co/DkV9yFf/Captura-desde-2023-03-06-20-12-53.png"/>  | <img src="https://i.ibb.co/MnBFKX2/Captura-desde-2023-03-06-20-13-28.png"/>  | 
 | -- | -- |
   
  </div>
