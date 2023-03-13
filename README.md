@@ -62,7 +62,10 @@ Me apasiona adquirir conocimientos nuevos y constantemente busco desafíos y opo
   
 
  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachobasilio&show_icons=true&theme=dracula&locale=en&layout=compact" alt="santieb" /></p>
+  
   
 <h6 align="right">
   <img src="https://komarev.com/ghpvc/?username=NachoBasilio&style=flat-square&color=blue" alt=""/>
 </h6>
+
