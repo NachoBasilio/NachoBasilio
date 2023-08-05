@@ -4,7 +4,7 @@
 
 <h1 align="center"> Bienvenido a mi repositorio </h1>
 
-<h2 align="center"> Me llamo Ignacio Basilio </h2>
+<h2 align="center"> Mi nombre es Ignacio Basilio </h2>
 
 <h3 align="center">Soy un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación.</h3>
 
