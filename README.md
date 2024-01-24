@@ -6,8 +6,7 @@
 
 <h2 align="center"> Mi nombre es Ignacio Basilio </h2>
 
-<h3 align="center">Soy un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación.</h3>
-
+<h3 align="center">Soy un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación. Actualmente soy profesor, tutor y también fundé un grupo para entusiastas de la tecnología.</h3>
 
 <h2 align="center"> Me interesan las siguientes tecnologías: </h2>
 
