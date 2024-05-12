@@ -7,6 +7,7 @@
 <h2 align="center"> Mi nombre es Ignacio Basilio (IgnaDev) </h2>
 
 <h3 align="center">Soy un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación. Actualmente soy profesor, tutor y también fundé un grupo para entusiastas de la tecnología.</h3>
+<h3 align="center">Ademas son parte del equipo fundador de CodingFlash, somos un grupo de estudiantes y entusiastas apasionados por la tecnología, unidos en esta organización sin fines de lucro. Aquí, nos embarcamos en la emocionante travesía de adentrarnos en el mundo del desarrollo, experimentando con proyectos que abarcan todas las etapas de vida de un software.</h3>
 
 <h2 align="center"> Me interesan las siguientes tecnologías: </h2>
 
@@ -42,7 +43,8 @@
 <h3>
 Además de mi labor como desarrollador web, también me dedico a la enseñanza de programación, brindando asesoramiento a otros para que puedan introducirse en el mundo del desarrollo y lograr sus objetivos profesionales.
 <h3>
-   
+
+
 
 
 Me apasiona adquirir conocimientos nuevos y constantemente busco desafíos y oportunidades para avanzar en mi carrera. Si estás interesado en colaborar conmigo, no dudes en comunicarte. Estoy ansioso por establecer conexiones y trabajar juntos.
