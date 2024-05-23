@@ -11,7 +11,7 @@
 
 <h2 align="center"> Me interesan las siguientes tecnologías: </h2>
 
-<br/>
+
 
 <div align="center">
 
@@ -27,14 +27,6 @@
   </div>
 <br/>
 
-<h3 align="center">¡Conecta conmigo!</h3>
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ignadev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio)
-
-</div>
 
 <br/>
 
@@ -61,7 +53,14 @@ Me apasiona adquirir conocimientos nuevos y constantemente busco desafíos y opo
   
  </div>
   
-<p> Ahora se viene lo bueno...</p>
+<h3 align="center">¡Conecta conmigo!</h3>
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ignadev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio)
+
+</div>
  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachobasilio&show_icons=true&theme=dracula&locale=en&layout=compact" alt="santieb" /></p>
   
