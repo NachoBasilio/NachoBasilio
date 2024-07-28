@@ -2,19 +2,18 @@
 
 <br/>
 
-<h1 align="center"> ¡Bienvenido a mi repositorio! </h1>
+<h1 align="center"> IgnaDev </h1>
 
-<h2 align="center"> Mi nombre es Ignacio Basilio (IgnaDev) </h2>
+<h2 align="center"> ¡Bienvenidos a mi repositorio! </h2>
 
-<h3 align="center">Soy un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación. Actualmente soy profesor, tutor y también fundé un grupo para entusiastas de la tecnología.</h3>
-<h3 align="center">Ademas son parte del equipo fundador de CodingFlash, somos un grupo de estudiantes y entusiastas apasionados por la tecnología, unidos en esta organización sin fines de lucro. Aquí, nos embarcamos en la emocionante travesía de adentrarnos en el mundo del desarrollo, experimentando con proyectos que abarcan todas las etapas de vida de un software.</h3>
+<h3 align="left">Soy un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación. Actualmente soy profesor, tutor y también fundé un grupo para entusiastas de la tecnología: <a href="https://github.com/CodingFlashOR">Coding Flash</a> </h3>
 
 <h2 align="center"> Me interesan las siguientes tecnologías: </h2>
 
 
 
 <div align="center">
-
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,9 +21,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-  </div>
+  
+</div>
 <br/>
 
 
