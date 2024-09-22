@@ -2,8 +2,6 @@
 
 <br/>
 
-<h1 align="center"> IgnaDev </h1>
-
 <h2 align="center"> ¡Bienvenidos a mi repositorio! </h2>
 
 <h3 align="left">Soy un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación. Actualmente soy profesor, tutor y también fundé un grupo para entusiastas de la tecnología: <a href="https://github.com/CodingFlashOR">Coding Flash</a> </h3>
@@ -23,18 +21,22 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
 </div>
+
+<h3 align="center">¡Conecta conmigo!</h3>
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ignadev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio)
+
+</div>
+ 
 <br/>
-
-
-<br/>
-
 <br/>
 
 <h3>
 Además de mi labor como desarrollador web, también me dedico a la enseñanza de programación, brindando asesoramiento a otros para que puedan introducirse en el mundo del desarrollo y lograr sus objetivos profesionales.
 <h3>
-
-
 
 
 Me apasiona adquirir conocimientos nuevos y constantemente busco desafíos y oportunidades para avanzar en mi carrera. Si estás interesado en colaborar conmigo, no dudes en comunicarte. Estoy ansioso por establecer conexiones y trabajar juntos.
@@ -50,20 +52,14 @@ Me apasiona adquirir conocimientos nuevos y constantemente busco desafíos y opo
 | -- | -- |
   
  </div>
-  
-<h3 align="center">¡Conecta conmigo!</h3>
 
 <div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ignadev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NachoBasilio&theme=tokyonight" alt="mystreak"/>
 </div>
- 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachobasilio&show_icons=true&theme=dracula&locale=en&layout=compact" alt="santieb" /></p>
-  
   
 <h6 align="right">
+  
   <img src="https://komarev.com/ghpvc/?username=NachoBasilio&style=flat-square&color=blue" alt=""/>
+
 </h6>
 
