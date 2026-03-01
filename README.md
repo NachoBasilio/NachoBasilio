@@ -1,65 +1,81 @@
-<img src="https://i.ibb.co/z2g4Ldx/1681584517093.jpg"/>
+<img src="https://i.ibb.co/z2g4Ldx/1681584517093.jpg" alt="Ignacio Basilio" />
 
-<br/>
+# Ignacio Basilio (ignadev)
 
-<h2 align="center"> ¡Bienvenidos a mi repositorio! </h2>
+### QA Automation Engineer + Desarrollador Frontend
 
-<h3 align="left">Soy un apasionado del desarrollo web y el mundo de la tecnología en general. Me especializo en JavaScript y React, pero también tengo conocimientos en Python y otros lenguajes de programación. Actualmente soy profesor, tutor y también fundé un grupo para entusiastas de la tecnología: <a href="https://github.com/CodingFlashOR">Coding Flash</a>. Ademas soy frontend en Aldan (Proximamente mas info) </h3>
+Trabajo en la intersección entre **calidad de software y desarrollo web**: diseño automatizaciones end-to-end para entornos críticos y construyo interfaces frontend mantenibles para productos reales.
 
-<h2 align="center"> Me interesan las siguientes tecnologías: </h2>
+Actualmente me desempeño en **QA Automation para banca** (web, APIs REST/SOAP y desktop legacy) y en paralelo participo en proyectos de desarrollo con foco en **React + JavaScript**.
 
+## Propuesta de valor
 
+- Enfoque orientado a negocio: no solo pruebo o codeo, busco reducir riesgo real en producción.
+- Experiencia en automatización de flujos complejos en contextos regulados.
+- Base sólida de frontend moderno con foco en mantenibilidad y estado predecible.
+- Perfil híbrido: QA + desarrollo + docencia técnica.
 
-<div align="center">
-  
+## Stack principal
+
+### QA Automation
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-000000?style=for-the-badge)
+![TestNG](https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend y desarrollo
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
-</div>
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<h3 align="center">¡Conecta conmigo!</h3>
+### Herramientas
 
-<div align="center">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ignadev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio)
+## Proyectos destacados
 
-</div>
- 
-<br/>
-<br/>
+- **Athenea**  
+  Framework/plantilla para apps desktop con Electron + Preact + Vite. Publicado en NPM como `create-athenea-app`.  
+  - Web: https://atheneadocumentacion.netlify.app/  
+  - Repo: https://github.com/NachoBasilio/Athenea-Desktop  
+  - NPM: https://www.npmjs.com/package/create-athenea-app
 
-<h3>
-Además de mi labor como desarrollador web, también me dedico a la enseñanza de programación, brindando asesoramiento a otros para que puedan introducirse en el mundo del desarrollo y lograr sus objetivos profesionales.
-<h3>
+- **PriCut**  
+  Plataforma web de cotización industrial en producción. Participé en la recuperación del proyecto y su salida a producción, incluyendo migración de estado a Zustand.  
+  - Sitio: https://www.pricut.com/
 
+## Docencia
 
-Me apasiona adquirir conocimientos nuevos y constantemente busco desafíos y oportunidades para avanzar en mi carrera. Si estás interesado en colaborar conmigo, no dudes en comunicarte. Estoy ansioso por establecer conexiones y trabajar juntos.
+Además de mi rol técnico, tuve experiencia como profesor y tutor en formación de desarrolladores, acompañando a más de 300 estudiantes.
 
+## Contacto
 
-<h2 align="center"> 
-  Algunas de las opiniones de mis alumnos:
-</h2>
+Si querés conversar sobre QA Automation, frontend o colaboración técnica:
 
-<div align="center">
-  
-| <img src="https://i.ibb.co/DkV9yFf/Captura-desde-2023-03-06-20-12-53.png"/>  | <img src="https://i.ibb.co/MnBFKX2/Captura-desde-2023-03-06-20-13-28.png"/>  | 
+- Portfolio: https://ignadev.com/
+- GitHub: https://github.com/NachoBasilio
+- Twitter/X: https://twitter.com/ignadev
+- LinkedIn: https://www.linkedin.com/in/ignacio
+
+## Feedback de estudiantes
+
+| <img src="https://i.ibb.co/DkV9yFf/Captura-desde-2023-03-06-20-12-53.png" alt="Feedback 1" /> | <img src="https://i.ibb.co/MnBFKX2/Captura-desde-2023-03-06-20-13-28.png" alt="Feedback 2" /> |
 | -- | -- |
-  
- </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NachoBasilio&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NachoBasilio&theme=tokyonight" alt="GitHub streak" />
 </div>
-  
-<h6 align="right">
-  
-  <img src="https://komarev.com/ghpvc/?username=NachoBasilio&style=flat-square&color=blue" alt=""/>
 
-</h6>
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=NachoBasilio&style=flat-square&color=blue" alt="Profile views" />
+</div>
