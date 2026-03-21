@@ -1,4 +1,8 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGM_AvOC3D6wA/profile-displaybackgroundimage-shrink_350_1400/B4DZep9aNYG8AY-/0/1750903137927?e=1773878400&v=beta&t=jmfCroGhHEBsIgQeseA5zU3_45fCISNIX39dyIKvnFU" alt="Ignacio Basilio banner" />
+<img 
+  src="https://i.ibb.co/5WnYkWQs/1750903137927.jpg" 
+  alt="Ignacio Basilio banner" 
+  style="width: 100%; height: auto;" 
+/>
 
 # Ignacio Basilio (ignadev)
 
